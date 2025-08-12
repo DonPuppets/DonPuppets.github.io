@@ -2989,6 +2989,15 @@
       "id": 229
     }
   },
+  "2495": {
+    "xp": 0.471,
+    "name": "Œil de Craquelope",
+    "original_name": "Œil de Craquelope",
+    "type": {
+      "name": "Œil",
+      "id": 89
+    }
+  },
   "2496": {
     "xp": 0.395,
     "name": "Queue de Rat d'Hyoactif",
@@ -18151,6 +18160,94 @@
     "xp": 2.775,
     "name": "Jus de poisson",
     "original_name": "Jus de poisson",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "300": {
+    "xp": 0.075,
+    "name": "Graine de Pavot",
+    "original_name": "Graine de Pavot",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "363": {
+    "xp": 0.075,
+    "name": "Peau de Larve Orange",
+    "original_name": "Peau de Larve Orange",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "430": {
+    "xp": 0.144,
+    "name": "Os Invisible du Chafer Invisible",
+    "original_name": "Os Invisible du Chafer Invisible",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "1002": {
+    "xp": 0.313,
+    "name": "Tronc de Kokoko",
+    "original_name": "Tronc de Kokoko",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "371": {
+    "xp": 0.364,
+    "name": "Sourcil de Moskito",
+    "original_name": "Sourcil de Moskito",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "406": {
+    "xp": 0.404,
+    "name": "Estomac de Wo Wabbit",
+    "original_name": "Estomac de Wo Wabbit",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "276": {
+    "xp": 1.454,
+    "name": "Pièce du Trésor du Badoul",
+    "original_name": "Pièce du Trésor du Badoul",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "547": {
+    "xp": 1.593,
+    "name": "Pierre de Rubis",
+    "original_name": "Pierre de Rubis",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "746": {
+    "xp": 2.25,
+    "name": "Ebonite",
+    "original_name": "Ebonite",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "963": {
+    "xp": 4.1,
+    "name": "Morceau de clef du Soiw Woulant",
+    "original_name": "Morceau de clef du Soiw Woulant",
+    "type": {
+      "name_id": "items-resources"
+    }
+  },
+  "965": {
+    "xp": 4.113,
+    "name": "Pierre de Dopeul",
+    "original_name": "Pierre de Dopeul",
     "type": {
       "name_id": "items-resources"
     }
