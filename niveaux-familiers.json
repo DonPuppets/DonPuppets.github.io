@@ -1,0 +1,507 @@
+{
+  "version": "1.0",
+  "description": "Table des niveaux et XP pour les familiers Dofus",
+  "exportDate": "2025-08-12T14:18:04.630Z",
+  "niveaux": [
+    {
+      "niveau": 1,
+      "xpTotal": 1,
+      "xpEntreNiveaux": 1
+    },
+    {
+      "niveau": 2,
+      "xpTotal": 2,
+      "xpEntreNiveaux": 1
+    },
+    {
+      "niveau": 3,
+      "xpTotal": 3,
+      "xpEntreNiveaux": 1
+    },
+    {
+      "niveau": 4,
+      "xpTotal": 5,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 5,
+      "xpTotal": 7,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 6,
+      "xpTotal": 9,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 7,
+      "xpTotal": 11,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 8,
+      "xpTotal": 13,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 9,
+      "xpTotal": 15,
+      "xpEntreNiveaux": 2
+    },
+    {
+      "niveau": 10,
+      "xpTotal": 18,
+      "xpEntreNiveaux": 3
+    },
+    {
+      "niveau": 11,
+      "xpTotal": 21,
+      "xpEntreNiveaux": 3
+    },
+    {
+      "niveau": 12,
+      "xpTotal": 24,
+      "xpEntreNiveaux": 3
+    },
+    {
+      "niveau": 13,
+      "xpTotal": 28,
+      "xpEntreNiveaux": 4
+    },
+    {
+      "niveau": 14,
+      "xpTotal": 32,
+      "xpEntreNiveaux": 4
+    },
+    {
+      "niveau": 15,
+      "xpTotal": 37,
+      "xpEntreNiveaux": 5
+    },
+    {
+      "niveau": 16,
+      "xpTotal": 42,
+      "xpEntreNiveaux": 5
+    },
+    {
+      "niveau": 17,
+      "xpTotal": 48,
+      "xpEntreNiveaux": 6
+    },
+    {
+      "niveau": 18,
+      "xpTotal": 55,
+      "xpEntreNiveaux": 7
+    },
+    {
+      "niveau": 19,
+      "xpTotal": 62,
+      "xpEntreNiveaux": 7
+    },
+    {
+      "niveau": 20,
+      "xpTotal": 70,
+      "xpEntreNiveaux": 8
+    },
+    {
+      "niveau": 21,
+      "xpTotal": 79,
+      "xpEntreNiveaux": 9
+    },
+    {
+      "niveau": 22,
+      "xpTotal": 89,
+      "xpEntreNiveaux": 10
+    },
+    {
+      "niveau": 23,
+      "xpTotal": 101,
+      "xpEntreNiveaux": 12
+    },
+    {
+      "niveau": 24,
+      "xpTotal": 114,
+      "xpEntreNiveaux": 13
+    },
+    {
+      "niveau": 25,
+      "xpTotal": 128,
+      "xpEntreNiveaux": 14
+    },
+    {
+      "niveau": 26,
+      "xpTotal": 144,
+      "xpEntreNiveaux": 16
+    },
+    {
+      "niveau": 27,
+      "xpTotal": 162,
+      "xpEntreNiveaux": 18
+    },
+    {
+      "niveau": 28,
+      "xpTotal": 182,
+      "xpEntreNiveaux": 20
+    },
+    {
+      "niveau": 29,
+      "xpTotal": 204,
+      "xpEntreNiveaux": 22
+    },
+    {
+      "niveau": 30,
+      "xpTotal": 228,
+      "xpEntreNiveaux": 24
+    },
+    {
+      "niveau": 31,
+      "xpTotal": 255,
+      "xpEntreNiveaux": 27
+    },
+    {
+      "niveau": 32,
+      "xpTotal": 285,
+      "xpEntreNiveaux": 30
+    },
+    {
+      "niveau": 33,
+      "xpTotal": 318,
+      "xpEntreNiveaux": 33
+    },
+    {
+      "niveau": 34,
+      "xpTotal": 355,
+      "xpEntreNiveaux": 37
+    },
+    {
+      "niveau": 35,
+      "xpTotal": 396,
+      "xpEntreNiveaux": 41
+    },
+    {
+      "niveau": 36,
+      "xpTotal": 441,
+      "xpEntreNiveaux": 45
+    },
+    {
+      "niveau": 37,
+      "xpTotal": 491,
+      "xpEntreNiveaux": 50
+    },
+    {
+      "niveau": 38,
+      "xpTotal": 546,
+      "xpEntreNiveaux": 55
+    },
+    {
+      "niveau": 39,
+      "xpTotal": 607,
+      "xpEntreNiveaux": 61
+    },
+    {
+      "niveau": 40,
+      "xpTotal": 675,
+      "xpEntreNiveaux": 68
+    },
+    {
+      "niveau": 41,
+      "xpTotal": 750,
+      "xpEntreNiveaux": 75
+    },
+    {
+      "niveau": 42,
+      "xpTotal": 832,
+      "xpEntreNiveaux": 82
+    },
+    {
+      "niveau": 43,
+      "xpTotal": 923,
+      "xpEntreNiveaux": 91
+    },
+    {
+      "niveau": 44,
+      "xpTotal": 1023,
+      "xpEntreNiveaux": 100
+    },
+    {
+      "niveau": 45,
+      "xpTotal": 1134,
+      "xpEntreNiveaux": 111
+    },
+    {
+      "niveau": 46,
+      "xpTotal": 1256,
+      "xpEntreNiveaux": 122
+    },
+    {
+      "niveau": 47,
+      "xpTotal": 1391,
+      "xpEntreNiveaux": 135
+    },
+    {
+      "niveau": 48,
+      "xpTotal": 1539,
+      "xpEntreNiveaux": 148
+    },
+    {
+      "niveau": 49,
+      "xpTotal": 1702,
+      "xpEntreNiveaux": 163
+    },
+    {
+      "niveau": 50,
+      "xpTotal": 1882,
+      "xpEntreNiveaux": 180
+    },
+    {
+      "niveau": 51,
+      "xpTotal": 2080,
+      "xpEntreNiveaux": 198
+    },
+    {
+      "niveau": 52,
+      "xpTotal": 2298,
+      "xpEntreNiveaux": 218
+    },
+    {
+      "niveau": 53,
+      "xpTotal": 2537,
+      "xpEntreNiveaux": 239
+    },
+    {
+      "niveau": 54,
+      "xpTotal": 2800,
+      "xpEntreNiveaux": 263
+    },
+    {
+      "niveau": 55,
+      "xpTotal": 3089,
+      "xpEntreNiveaux": 289
+    },
+    {
+      "niveau": 56,
+      "xpTotal": 3407,
+      "xpEntreNiveaux": 318
+    },
+    {
+      "niveau": 57,
+      "xpTotal": 3756,
+      "xpEntreNiveaux": 349
+    },
+    {
+      "niveau": 58,
+      "xpTotal": 4140,
+      "xpEntreNiveaux": 384
+    },
+    {
+      "niveau": 59,
+      "xpTotal": 4561,
+      "xpEntreNiveaux": 421
+    },
+    {
+      "niveau": 60,
+      "xpTotal": 5023,
+      "xpEntreNiveaux": 462
+    },
+    {
+      "niveau": 61,
+      "xpTotal": 5530,
+      "xpEntreNiveaux": 507
+    },
+    {
+      "niveau": 62,
+      "xpTotal": 6087,
+      "xpEntreNiveaux": 557
+    },
+    {
+      "niveau": 63,
+      "xpTotal": 6698,
+      "xpEntreNiveaux": 611
+    },
+    {
+      "niveau": 64,
+      "xpTotal": 7368,
+      "xpEntreNiveaux": 670
+    },
+    {
+      "niveau": 65,
+      "xpTotal": 8102,
+      "xpEntreNiveaux": 734
+    },
+    {
+      "niveau": 66,
+      "xpTotal": 8907,
+      "xpEntreNiveaux": 805
+    },
+    {
+      "niveau": 67,
+      "xpTotal": 9789,
+      "xpEntreNiveaux": 882
+    },
+    {
+      "niveau": 68,
+      "xpTotal": 10755,
+      "xpEntreNiveaux": 966
+    },
+    {
+      "niveau": 69,
+      "xpTotal": 11814,
+      "xpEntreNiveaux": 1059
+    },
+    {
+      "niveau": 70,
+      "xpTotal": 12974,
+      "xpEntreNiveaux": 1160
+    },
+    {
+      "niveau": 71,
+      "xpTotal": 14244,
+      "xpEntreNiveaux": 1270
+    },
+    {
+      "niveau": 72,
+      "xpTotal": 15634,
+      "xpEntreNiveaux": 1390
+    },
+    {
+      "niveau": 73,
+      "xpTotal": 17156,
+      "xpEntreNiveaux": 1522
+    },
+    {
+      "niveau": 74,
+      "xpTotal": 18822,
+      "xpEntreNiveaux": 1666
+    },
+    {
+      "niveau": 75,
+      "xpTotal": 20645,
+      "xpEntreNiveaux": 1823
+    },
+    {
+      "niveau": 76,
+      "xpTotal": 22640,
+      "xpEntreNiveaux": 1995
+    },
+    {
+      "niveau": 77,
+      "xpTotal": 24822,
+      "xpEntreNiveaux": 2182
+    },
+    {
+      "niveau": 78,
+      "xpTotal": 27208,
+      "xpEntreNiveaux": 2386
+    },
+    {
+      "niveau": 79,
+      "xpTotal": 29818,
+      "xpEntreNiveaux": 2610
+    },
+    {
+      "niveau": 80,
+      "xpTotal": 32672,
+      "xpEntreNiveaux": 2854
+    },
+    {
+      "niveau": 81,
+      "xpTotal": 35792,
+      "xpEntreNiveaux": 3120
+    },
+    {
+      "niveau": 82,
+      "xpTotal": 39202,
+      "xpEntreNiveaux": 3410
+    },
+    {
+      "niveau": 83,
+      "xpTotal": 42929,
+      "xpEntreNiveaux": 3727
+    },
+    {
+      "niveau": 84,
+      "xpTotal": 47002,
+      "xpEntreNiveaux": 4073
+    },
+    {
+      "niveau": 85,
+      "xpTotal": 51452,
+      "xpEntreNiveaux": 4450
+    },
+    {
+      "niveau": 86,
+      "xpTotal": 56314,
+      "xpEntreNiveaux": 4862
+    },
+    {
+      "niveau": 87,
+      "xpTotal": 61625,
+      "xpEntreNiveaux": 5311
+    },
+    {
+      "niveau": 88,
+      "xpTotal": 67426,
+      "xpEntreNiveaux": 5801
+    },
+    {
+      "niveau": 89,
+      "xpTotal": 73761,
+      "xpEntreNiveaux": 6335
+    },
+    {
+      "niveau": 90,
+      "xpTotal": 80678,
+      "xpEntreNiveaux": 6917
+    },
+    {
+      "niveau": 91,
+      "xpTotal": 88230,
+      "xpEntreNiveaux": 7552
+    },
+    {
+      "niveau": 92,
+      "xpTotal": 96475,
+      "xpEntreNiveaux": 8245
+    },
+    {
+      "niveau": 93,
+      "xpTotal": 105475,
+      "xpEntreNiveaux": 9000
+    },
+    {
+      "niveau": 94,
+      "xpTotal": 115298,
+      "xpEntreNiveaux": 9823
+    },
+    {
+      "niveau": 95,
+      "xpTotal": 126018,
+      "xpEntreNiveaux": 10720
+    },
+    {
+      "niveau": 96,
+      "xpTotal": 137715,
+      "xpEntreNiveaux": 11697
+    },
+    {
+      "niveau": 97,
+      "xpTotal": 150478,
+      "xpEntreNiveaux": 12763
+    },
+    {
+      "niveau": 98,
+      "xpTotal": 164402,
+      "xpEntreNiveaux": 13924
+    },
+    {
+      "niveau": 99,
+      "xpTotal": 179591,
+      "xpEntreNiveaux": 15189
+    },
+    {
+      "niveau": 100,
+      "xpTotal": 196159,
+      "xpEntreNiveaux": 16568
+    }
+  ]
+}
